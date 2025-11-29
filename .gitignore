@@ -1,0 +1,20 @@
+*.db
+*.db-shm
+*.db-wal
+*.vsidx
+Exo 3/.vs/Exo 3/v17/.suo
+*.opendb
+*.json
+*.ipch
+*.sln
+*.vcxproj
+*.user
+*.filters
+*.obj
+*.recipe
+*.log
+*.ilk
+*.tlog
+*.pdb
+*.exe
+*.idb
